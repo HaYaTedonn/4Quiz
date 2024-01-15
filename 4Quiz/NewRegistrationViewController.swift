@@ -1,7 +1,7 @@
 //
 //  NewRegistrationViewController.swift
 //  4択クイズ！
-//
+//  新規登録画面
 //  Created by はやてどん on 2024/01/15.
 //
 

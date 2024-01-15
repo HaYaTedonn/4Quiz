@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  4Quiz
-//
+//ここも変えた
 //  Created by はやてどん on 2024/01/11.
 //
 

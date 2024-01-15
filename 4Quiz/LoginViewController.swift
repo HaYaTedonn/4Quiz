@@ -1,7 +1,7 @@
 //
 //  LoginViewController.swift
 //  4択クイズ！
-//
+//ログイン画面
 //  Created by はやてどん on 2024/01/15.
 //
 
