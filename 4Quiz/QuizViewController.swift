@@ -3,7 +3,7 @@
 //  4Quiz
 //
 //  Created by はやてどん on 2024/01/11.
-//
+//GitHub繋げました！
 
 import UIKit
 import AVFoundation
