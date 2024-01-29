@@ -15,7 +15,6 @@
 		42811F5E2B4FEB9800E4E48F /* ScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42811F5D2B4FEB9800E4E48F /* ScoreViewController.swift */; };
 		42811F602B4FEEBC00E4E48F /* Quiz1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42811F5F2B4FEEBC00E4E48F /* Quiz1ViewController.swift */; };
 		42811F622B4FEFF800E4E48F /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42811F612B4FEFF800E4E48F /* SettingViewController.swift */; };
-		42811F642B4FF70100E4E48F /* quiz.csv in Resources */ = {isa = PBXBuildFile; fileRef = 42811F632B4FF70100E4E48F /* quiz.csv */; };
 		42811F662B4FFB0900E4E48F /* quiz1.csv in Resources */ = {isa = PBXBuildFile; fileRef = 42811F652B4FFB0900E4E48F /* quiz1.csv */; };
 		42811F682B50317600E4E48F /* Score1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42811F672B50317600E4E48F /* Score1ViewController.swift */; };
 		42811F6C2B50402000E4E48F /* correct.png in Resources */ = {isa = PBXBuildFile; fileRef = 42811F6A2B50402000E4E48F /* correct.png */; };
@@ -27,6 +26,10 @@
 		42811F7C2B506A7000E4E48F /* dame.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 42811F792B506A7000E4E48F /* dame.mp3 */; };
 		42811F7D2B506A7000E4E48F /* iine.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 42811F7A2B506A7000E4E48F /* iine.mp3 */; };
 		42811F7F2B506B4800E4E48F /* manntenn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 42811F7E2B506B4800E4E48F /* manntenn.mp3 */; };
+		42BBAC3C2B611F3000F78D2C /* Score2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BBAC3B2B611F3000F78D2C /* Score2ViewController.swift */; };
+		42BBAC3E2B611FC300F78D2C /* Quiz2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BBAC3D2B611FC300F78D2C /* Quiz2ViewController.swift */; };
+		42BBAC402B61205500F78D2C /* quiz.csv in Resources */ = {isa = PBXBuildFile; fileRef = 42BBAC3F2B61205500F78D2C /* quiz.csv */; };
+		42BBAC422B6120A500F78D2C /* quiz2.csv in Resources */ = {isa = PBXBuildFile; fileRef = 42BBAC412B6120A500F78D2C /* quiz2.csv */; };
 		42EAFE8B2B4FC0CB00914A3C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EAFE8A2B4FC0CB00914A3C /* AppDelegate.swift */; };
 		42EAFE8D2B4FC0CB00914A3C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EAFE8C2B4FC0CB00914A3C /* SceneDelegate.swift */; };
 		42EAFE8F2B4FC0CB00914A3C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EAFE8E2B4FC0CB00914A3C /* ViewController.swift */; };
@@ -80,7 +83,6 @@
 		42811F5D2B4FEB9800E4E48F /* ScoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreViewController.swift; sourceTree = "<group>"; };
 		42811F5F2B4FEEBC00E4E48F /* Quiz1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz1ViewController.swift; sourceTree = "<group>"; };
 		42811F612B4FEFF800E4E48F /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
-		42811F632B4FF70100E4E48F /* quiz.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = quiz.csv; sourceTree = "<group>"; };
 		42811F652B4FFB0900E4E48F /* quiz1.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = quiz1.csv; sourceTree = "<group>"; };
 		42811F672B50317600E4E48F /* Score1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Score1ViewController.swift; sourceTree = "<group>"; };
 		42811F6A2B50402000E4E48F /* correct.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = correct.png; sourceTree = "<group>"; };
@@ -92,6 +94,10 @@
 		42811F792B506A7000E4E48F /* dame.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dame.mp3; sourceTree = "<group>"; };
 		42811F7A2B506A7000E4E48F /* iine.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = iine.mp3; sourceTree = "<group>"; };
 		42811F7E2B506B4800E4E48F /* manntenn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = manntenn.mp3; sourceTree = "<group>"; };
+		42BBAC3B2B611F3000F78D2C /* Score2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Score2ViewController.swift; sourceTree = "<group>"; };
+		42BBAC3D2B611FC300F78D2C /* Quiz2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz2ViewController.swift; sourceTree = "<group>"; };
+		42BBAC3F2B61205500F78D2C /* quiz.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = quiz.csv; sourceTree = "<group>"; };
+		42BBAC412B6120A500F78D2C /* quiz2.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = quiz2.csv; sourceTree = "<group>"; };
 		42EAFE872B4FC0CB00914A3C /* 4択クイズ！.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "4択クイズ！.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42EAFE8A2B4FC0CB00914A3C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42EAFE8C2B4FC0CB00914A3C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -144,14 +150,17 @@
 				42EAFE8A2B4FC0CB00914A3C /* AppDelegate.swift */,
 				42EAFE8C2B4FC0CB00914A3C /* SceneDelegate.swift */,
 				42EAFE902B4FC0CB00914A3C /* Main.storyboard */,
-				42811F632B4FF70100E4E48F /* quiz.csv */,
+				42BBAC412B6120A500F78D2C /* quiz2.csv */,
 				42811F652B4FFB0900E4E48F /* quiz1.csv */,
+				42BBAC3F2B61205500F78D2C /* quiz.csv */,
 				4280881D2B55116200E6DB2E /* NewRegistrationViewController.swift */,
 				4280881B2B54FE8A00E6DB2E /* LoginViewController.swift */,
 				42EAFE8E2B4FC0CB00914A3C /* ViewController.swift */,
 				42811F612B4FEFF800E4E48F /* SettingViewController.swift */,
+				42BBAC3B2B611F3000F78D2C /* Score2ViewController.swift */,
 				42811F672B50317600E4E48F /* Score1ViewController.swift */,
 				42811F5D2B4FEB9800E4E48F /* ScoreViewController.swift */,
+				42BBAC3D2B611FC300F78D2C /* Quiz2ViewController.swift */,
 				42811F5F2B4FEEBC00E4E48F /* Quiz1ViewController.swift */,
 				42811F5B2B4FEA8100E4E48F /* QuizViewController.swift */,
 				42EAFE932B4FC0CC00914A3C /* Assets.xcassets */,
@@ -239,14 +248,15 @@
 				42811F662B4FFB0900E4E48F /* quiz1.csv in Resources */,
 				42811F732B505D7700E4E48F /* SE.mp3 in Resources */,
 				42811F6C2B50402000E4E48F /* correct.png in Resources */,
+				42BBAC422B6120A500F78D2C /* quiz2.csv in Resources */,
 				42811F7C2B506A7000E4E48F /* dame.mp3 in Resources */,
 				42EAFE942B4FC0CC00914A3C /* Assets.xcassets in Resources */,
 				42EAFE922B4FC0CB00914A3C /* Main.storyboard in Resources */,
 				42811F7D2B506A7000E4E48F /* iine.mp3 in Resources */,
+				42BBAC402B61205500F78D2C /* quiz.csv in Resources */,
 				42811F6D2B50402000E4E48F /* incorrect.png in Resources */,
 				42811F772B5063C800E4E48F /* batu.mp3 in Resources */,
 				42811F7B2B506A7000E4E48F /* maamaa.mp3 in Resources */,
-				42811F642B4FF70100E4E48F /* quiz.csv in Resources */,
 				428088182B541BF600E6DB2E /* freebgm.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,6 +269,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				4280881C2B54FE8A00E6DB2E /* LoginViewController.swift in Sources */,
+				42BBAC3C2B611F3000F78D2C /* Score2ViewController.swift in Sources */,
+				42BBAC3E2B611FC300F78D2C /* Quiz2ViewController.swift in Sources */,
 				42EAFE8F2B4FC0CB00914A3C /* ViewController.swift in Sources */,
 				42811F682B50317600E4E48F /* Score1ViewController.swift in Sources */,
 				42EAFE8B2B4FC0CB00914A3C /* AppDelegate.swift in Sources */,

@@ -14,10 +14,88 @@
             filePath = "4Quiz/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "70"
-            endingLineNumber = "70"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
             landmarkName = "toTagButtonAction(_:)"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08B79728-433E-4D42-A2F6-5CFCEDAC47F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "4Quiz/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "toSettingButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08B79728-433E-4D42-A2F6-5CFCEDAC47F3 - bc2ea4aa1ba83d10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_&#x629e;&#x30af;&#x30a4;&#x30ba;_.ViewController.toSettingButton(Any) -&gt; ()"
+                  moduleName = "4&#x629e;&#x30af;&#x30a4;&#x30b9;&#x3099;&#xff01;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayatedonn/Desktop/Project/4Quiz/4Quiz/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "08B79728-433E-4D42-A2F6-5CFCEDAC47F3 - bc2ea4aa1ba83df1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_&#x629e;&#x30af;&#x30a4;&#x30ba;_.ViewController.toSettingButton(Any) -&gt; ()"
+                  moduleName = "4&#x629e;&#x30af;&#x30a4;&#x30b9;&#x3099;&#xff01;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayatedonn/Desktop/Project/4Quiz/4Quiz/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "08B79728-433E-4D42-A2F6-5CFCEDAC47F3 - bc2ea4aa1ba83dde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_&#x629e;&#x30af;&#x30a4;&#x30ba;_.ViewController.toSettingButton(Any) -&gt; ()"
+                  moduleName = "4&#x629e;&#x30af;&#x30a4;&#x30b9;&#x3099;&#xff01;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayatedonn/Desktop/Project/4Quiz/4Quiz/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "08B79728-433E-4D42-A2F6-5CFCEDAC47F3 - bc2ea4aa1ba83d33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_&#x629e;&#x30af;&#x30a4;&#x30ba;_.ViewController.toSettingButton(Any) -&gt; ()"
+                  moduleName = "4&#x629e;&#x30af;&#x30a4;&#x30b9;&#x3099;&#xff01;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayatedonn/Desktop/Project/4Quiz/4Quiz/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

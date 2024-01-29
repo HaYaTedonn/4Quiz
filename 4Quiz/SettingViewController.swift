@@ -70,6 +70,10 @@ class SettingViewController: UIViewController {
     override var shouldAutorotate: Bool {
         return false
     }
+    @IBAction func toBackButton(_ sender: Any) {
+        playSoundEffect(name: "SE")
+        self.presentingViewController?.presentingViewController?.dismiss(animated: true)
+    }
     
    
     

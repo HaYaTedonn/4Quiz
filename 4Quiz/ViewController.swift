@@ -60,10 +60,22 @@ class ViewController: UIViewController {
         }
     
     
-
     @IBAction func toSettingButtonAction(_ sender: Any) {
         
         playSoundEffect(name: "SE")
+    }
+    
+    
+    @IBAction func toOgawaButton(_ sender: Any) {
+        
+        playSoundEffect(name: "SE")
+    }
+    
+    
+    @IBAction func toButton2Action(_ sender: Any) {
+        
+        playSoundEffect(name: "SE")
+        showUUUnderDevelopmentAlert()
     }
     
    
@@ -75,6 +87,55 @@ class ViewController: UIViewController {
         
         playSoundEffect(name: "SE")
     }
+    @IBAction func toSettingButton(_ sender: Any) {
+        
+        playSoundEffect(name: "SE")
+    }
+    @IBAction func toLogoutButton(_ sender: Any) {
+        
+        playSoundEffect(name: "SE")
+        showUnderDevelopmentAlert()
+    }
+    
+    func showUnderDevelopmentAlert() {
+            let alertController = UIAlertController(
+                title: "開発中",
+                message: "まだこの機能は開発中です。",
+                preferredStyle: .alert
+            )
+            
+            let okAction = UIAlertAction(title: "OK", style: .default, handler: nil)
+            alertController.addAction(okAction)
+            
+            present(alertController, animated: true, completion: nil)
+        }
+    
+    func showUUnderDevelopmentAlert() {
+            let aalertController = UIAlertController(
+                title: "開発中",
+                message: "まだこの機能は開発中です。",
+                preferredStyle: .alert
+            )
+            
+            let ookAction = UIAlertAction(title: "OK", style: .default, handler: nil)
+            aalertController.addAction(ookAction)
+            
+            present(aalertController, animated: true, completion: nil)
+        }
+    
+    func showUUUnderDevelopmentAlert() {
+            let aaalertController = UIAlertController(
+                title: "開発中",
+                message: "まだこの機能は開発中です。",
+                preferredStyle: .alert
+            )
+            
+            let oookAction = UIAlertAction(title: "OK", style: .default, handler: nil)
+            aaalertController.addAction(oookAction)
+            
+            present(aaalertController, animated: true, completion: nil)
+        }
+    
     
     override var supportedInterfaceOrientations: UIInterfaceOrientationMask {
         return .portrait
